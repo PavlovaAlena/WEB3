@@ -1,0 +1,57 @@
+#logo {
+    float: left;
+    padding: 5px;
+}
+
+#title {
+    display: block;
+    font-size: 20px;
+    font-style: italic;
+    padding-top: 15px;
+    text-align: left;
+}
+
+.Ya {
+    font-size: 20px;
+    color: MediumBlue;
+    font-weight: bold;
+}
+
+#elem {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#smilik {
+    padding-top: 10px;
+    padding-left: 45px;
+    border-radius: 5px;
+}
+
+body {
+    height: 100%;
+}
+
+header {
+    width: 100%;
+    height: auto;
+    position: relative;
+    background: bisque;
+}
+
+main {
+    width: 100%;
+    position: relative;
+    min-height: 100%;
+    padding-bottom: 80px;
+}
+
+footer {
+    width: 100%;
+    position: absolute;
+    background: darkgray;
+    padding: 10px 20px;
+    color: white;
+    bottom: 0;
+    height: 80px;
+}
